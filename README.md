@@ -2,7 +2,7 @@
 
 I'm Dilan and I love [Java](https://en.wikipedia.org/wiki/Java_(programming_language)). 
 
-- 🔭 I'm currently working in [LatamCraft](https://github.com/LatamCraft).
+- 🔭 I'm currently working on my own network.
 - 🌱 I’m currently learning JavaScript, React, and HTML (yes, I don't know how to make sites lol)
 - ⚡ Fun fact: I drink 4~ coffees per day.
 - 😄 Pronouns: he/him
